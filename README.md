@@ -134,8 +134,6 @@ Lower RMSE values indicate better prediction accuracy.
 
 ## Citation
 
-If you use this implementation in your research, please cite the original paper:
-
 ```bibtex
 @article{bhattacharyya_cf_2020,
   title={An efficient collaborative filtering approach based on Bhattacharyya coefficient and user-item correlation},
@@ -157,18 +155,6 @@ If you use this implementation in your research, please cite the original paper:
 ## License
 
 This implementation is provided for research and educational purposes. Please refer to the original paper for the theoretical foundation and cite appropriately.
-
-### Academic Citation
-
-```bibtex
-   @article{bhattacharyya_cf_2020,
-     title={An efficient collaborative filtering approach based on Bhattacharyya coefficient and user-item correlation},
-     journal={Applied Intelligence},
-     publisher={Springer},
-     year={2020},
-     doi={10.1007/s10489-020-01775-4}
-   }
-```
 
 ## Contact
 
